@@ -2,7 +2,7 @@
 
 <h2>[팀 프로젝트] 도서 구매 및 독서 토론 예약 사이트</h2>
 <p>도서를 구매하고 다른 사용자들과의 독서 토론 날짜를 예약할 수 있는 웹사이트 입니다.</p>
-<p>Spring 기초를 공부하면서 만들게 되었습니다.</p>
+<p>Struts2와 iBatis 공부하면서 만들게 되었습니다.</p>
 <p>개발기간: 2019-09.31~2019.10.5</p>
 <p>데모사이트: https://trevari.co.kr/ 
 https://www.aladin.co.kr/home/welcome.aspx</p>
